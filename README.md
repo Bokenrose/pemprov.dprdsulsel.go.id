@@ -1,1 +1,0 @@
-# pemprov.dprdsulsel.go.id
